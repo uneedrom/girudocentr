@@ -4,4 +4,4 @@
 *.txt text working-tree-encoding=CP1251
 *.php text working-tree-encoding=CP1251
 *.xml text working-tree-encoding=CP1251
-*.json text working-tree-encoding=CP1251 
+*.json text working-tree-encoding=CP1251
