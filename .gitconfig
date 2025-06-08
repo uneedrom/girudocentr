@@ -1,0 +1,9 @@
+[core]
+    quotepath = false
+    autocrlf = false
+    safecrlf = false
+[gui]
+    encoding = cp1251
+[i18n]
+    commitencoding = cp1251
+    logoutputencoding = cp1251 
